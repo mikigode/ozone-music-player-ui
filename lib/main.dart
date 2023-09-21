@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:ozone_music_player/screen/home_screen.dart';
-import 'package:ozone_music_player/screen/playlist_screen.dart';
-import 'package:ozone_music_player/screen/song_screen.dart';
 import 'package:ozone_music_player/screen/screens.dart';
 
 void main() {
